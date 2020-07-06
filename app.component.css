@@ -1,0 +1,18 @@
+hr {
+    clear: both;
+    visibility: hidden;
+}
+
+.button {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    margin-left: -104.5px;
+    /*104.5px is half of the button's width*/
+}
+
+.container {
+    /*height: 1000px;*/
+    margin-left: 20px;
+    margin-top: 20px;
+}
